@@ -1,5 +1,11 @@
 # blossom-server
 
+## 5.0.0
+
+### Major Changes
+
+- 7045928: Require "media" auth event on /media endpoint
+
 ## 4.7.0
 
 ### Minor Changes
